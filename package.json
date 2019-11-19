@@ -1,0 +1,27 @@
+{
+  "name": "communication_dbops4sendermixinlib",
+  "version": "1.0.0",
+  "description": "AllexJS lib with mixins for a Sender that consumes the Communication DBOps Service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/communication-libs/dbops4sendermixin.git"
+  },
+  "keywords": [
+    "ecosystem:AllexJS",
+    "communication",
+    "dbops",
+    "sender",
+    "mixin",
+    "lib"
+  ],
+  "author": "Andrija Petrovic <andrija.hers@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/communication-libs/dbops4sendermixin/issues"
+  },
+  "homepage": "https://github.com/communication-libs/dbops4sendermixin#readme"
+}
